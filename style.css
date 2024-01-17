@@ -386,6 +386,32 @@ h6{
     height: 422px;
     border: 1px solid orange;
     border-radius: 16px;
+    padding: 2em 2em;
+}
+.latter{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+#ori{
+    margin-bottom: 1em;
+}
+#name{
+    width: 390px;
+    height: 50px;
+    margin-bottom: 2em;
+}
+#email{
+    width: 390px;
+    height: 50px;
+    margin-bottom: 2em;
+}
+#but{
+    width: 390px;
+    height: 50px;
+    margin-bottom: 2em;
+    background: orange;
+    color: #FFF;
+    text-align: center;
 }
 footer{
     background: rgba(19, 19, 24, 0.05);
